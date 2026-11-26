@@ -7,3 +7,5 @@ Analyse univariée:
 Analyse bivariée
 
 Analyse multivariée
+
+ACP
